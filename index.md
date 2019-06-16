@@ -84,7 +84,7 @@ just in case
 모든 코드는 cmd (terminal)창에서 진행된다. 
 파일이 설치된 위치에 들어가서 python3 파일이름 하면 cmd에서 파이썬을 실행 가능한 것은 안다고 가정한다. 
 
-<img src="https://user-images.githubusercontent.com/37058246/59561648-ab313d80-905d-11e9-8718-1b6ee2c25bbd.jpg" width=60% height=60%>
+<img src="https://user-images.githubusercontent.com/37058246/59561648-ab313d80-905d-11e9-8718-1b6ee2c25bbd.jpg"  width="100%" height="100%">
 
 1. 라즈베리 파이를 통해 실시간 미세먼지 농도 측정한 값을 HUE 와 연동하는 법 설명서
 ------------------------------------------------------------------
@@ -109,7 +109,7 @@ python 코드와 HUE를 연동하기 위해서는 2가지의 과정이 필요하
 인터넷과 HUE 연동하여 어플로 조작 가능하도록 하기 
 1. 근처 wifi 위치를 확인한다. 
 2. wifi에 아래의 사진과 같은 philps bridge를 연결한다. (philips hue 전구 박스를 확인하면 있다.)
-<img src= "https://user-images.githubusercontent.com/37058246/59563613-26531d80-9077-11e9-95f0-3aab7080d782.jpg" width= 60% height=60%>
+<img src= "https://user-images.githubusercontent.com/37058246/59563613-26531d80-9077-11e9-95f0-3aab7080d782.jpg"  width="100%" height="100%">
 3. 플레이 스토어, app store에서 philips hue를 다운 받는다. 
 4. 어플의 화면을 켜 연동을 확인한다. 
 5. bridge 본체의 버튼을 누르라는 안내문이 어플에 나타나면 동그란 버튼을 눌러준다. 
@@ -135,9 +135,9 @@ hue 어플 내에서 따로 생성된 ip를 받아와야한다.
 아래의 사진을 참고하면 된다. 
 
 
-<img src= "https://user-images.githubusercontent.com/37058246/59563760-19372e00-9079-11e9-86fa-d38012f03e18.jpeg" width=30% height=30%>
+<img src= "https://user-images.githubusercontent.com/37058246/59563760-19372e00-9079-11e9-86fa-d38012f03e18.jpeg" width="100%" height="100%">
 
-<img src= "https://user-images.githubusercontent.com/37058246/59563750-01f84080-9079-11e9-8aca-92c2d8bea8de.jpeg" width=30% height=30%>
+<img src= "https://user-images.githubusercontent.com/37058246/59563750-01f84080-9079-11e9-8aca-92c2d8bea8de.jpeg" width="100%" height="100%">
 
 
 username 을 받아오는 과정은 단순하다. 
@@ -154,12 +154,9 @@ print(username)
 light number을 받아오는 법은 생각보다 까다롭다. 
 어떠한 page에 들어가서 그곳에서 사용하는 문법으로 확인해봐야하는데 어렵지는 않지만, 
 이렇게까지 할 필요없이 0(혹은1)~ 10 까지의 숫자를 넣어서 시도해보면 어렵지 않게 찾을 수 있을것이고
-대부분 처음 생성하는 light number은 1로, 그 후 추가되는 것은 숫자가 1 씩 증가할 것이다. 
-
-
-끝
-
-
+대부분 처음 생성하는 light number은 1로, 그 후 추가되는 것은 숫자가 1 씩 증가할 것이다.  
+  
+  
 
 2. 미세먼지 공공 데이터를 HUE 로 가져오는 방법 설명서
 --------------------------------------------
@@ -173,12 +170,12 @@ light number을 받아오는 법은 생각보다 까다롭다.
 
 2. 숫자 수치에 따라 빛의 밝기가 변하는 hue 코드
 
-<img src="https://user-images.githubusercontent.com/37058246/59561975-54c5fe00-9061-11e9-8986-2e55a793f696.png" width=100% height= 100%>
+<img src="https://user-images.githubusercontent.com/37058246/59561975-54c5fe00-9061-11e9-8986-2e55a793f696.png" width="100%" height= "100%">
 
 이 중 가장 최근의 데이터만을 받아오기 위하여 한 줄만 새로운 Sheet에 업데이트 한다. 
 
-<img src= "https://user-images.githubusercontent.com/37058246/59562009-fb120380-9061-11e9-99e4-e1f1c643d82c.png" width=60%
-height=60%>
+<img src= "https://user-images.githubusercontent.com/37058246/59562009-fb120380-9061-11e9-99e4-e1f1c643d82c.png" width="100%"
+height="100%">
 
 이 새롭게 업데이트 된 한 줄을 "준비된 숫자 수치에 따라 빛의 밝기가 변하는 hue 코드"에 업로드 한다.
 
