@@ -69,7 +69,7 @@
   
   
   
-### 미세먼지와 HUE 연동하는법 
+미세먼지와 HUE 연동하는법 
 ===================
 Introduction
 ------------
@@ -173,12 +173,12 @@ light number을 받아오는 법은 생각보다 까다롭다.
 
 2. 숫자 수치에 따라 빛의 밝기가 변하는 hue 코드
 
-<img src="https://user-images.githubusercontent.com/37058246/59561975-54c5fe00-9061-11e9-8986-2e55a793f696.png" width=100% height= 100%>
+<img src="https://user-images.githubusercontent.com/37058246/59561975-54c5fe00-9061-11e9-8986-2e55a793f696.png" width=60% height= 60%>
 
 이 중 가장 최근의 데이터만을 받아오기 위하여 한 줄만 새로운 Sheet에 업데이트 한다. 
 
-<img src= "https://user-images.githubusercontent.com/37058246/59562009-fb120380-9061-11e9-99e4-e1f1c643d82c.png" width=100%
-height=100%>
+<img src= "https://user-images.githubusercontent.com/37058246/59562009-fb120380-9061-11e9-99e4-e1f1c643d82c.png" width=60%
+height=60%>
 
 이 새롭게 업데이트 된 한 줄을 "준비된 숫자 수치에 따라 빛의 밝기가 변하는 hue 코드"에 업로드 한다.
 
@@ -238,4 +238,9 @@ if dust10 < 1:
 "준비된 숫자 수치에 따라 빛의 밝기가 변하는 hue 코드" 의 변수 대입 정보를 변경하여 반영시킨다. 
 
 
-<img src ="https://user-images.githubusercontent.com/37058246/59562314-1b43c180-9066-11e9-8193-7b9e5ab346ad.png" width=100% height=100%>
+<img src ="https://user-images.githubusercontent.com/37058246/59562314-1b43c180-9066-11e9-8193-7b9e5ab346ad.png" width=60% height=60%>
+
+
+
+
+
