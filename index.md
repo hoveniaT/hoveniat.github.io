@@ -5,12 +5,18 @@
 히브리어 Tob(טוב)는 '좋다, 아름답다, 온전하다, 선하다'는 의미입니다.  
 
   
-<img src="https://user-images.githubusercontent.com/42813286/59561567-09a9ec00-905d-11e9-8f66-dd32903b661b.jpg" width="60%" height="60%">
-<img src="https://user-images.githubusercontent.com/42813286/59561626-863cca80-905d-11e9-8023-bb90d83c58c0.jpg">
-<img src="https://user-images.githubusercontent.com/42813286/59561600-51c90e80-905d-11e9-906a-3ead382923e5.jpg" width="60%" height="60%">
-<img src="https://user-images.githubusercontent.com/42813286/59561634-9b195e00-905d-11e9-9367-7aff030f07c3.jpg" width="60%" height="60%">
-<img src="https://user-images.githubusercontent.com/42813286/59561646-a8cee380-905d-11e9-9bbe-283de714273f.jpg" width="60%" height="60%">
-<img src="https://user-images.githubusercontent.com/42813286/59561947-fe58bf80-9060-11e9-96f4-2029513e6b4f.png" width="60%" height="60%">
+<img src="https://user-images.githubusercontent.com/42813286/59561567-09a9ec00-905d-11e9-8f66-dd32903b661b.jpg" width="100%" height="100%">
+
+<img src="https://user-images.githubusercontent.com/42813286/59561626-863cca80-905d-11e9-8023-bb90d83c58c0.jpg" width="100%" height="100%">
+
+<img src="https://user-images.githubusercontent.com/42813286/59561600-51c90e80-905d-11e9-906a-3ead382923e5.jpg" width="100%" height="100%">
+
+<img src="https://user-images.githubusercontent.com/42813286/59561634-9b195e00-905d-11e9-9367-7aff030f07c3.jpg" width="100%" height="100%">
+
+<img src="https://user-images.githubusercontent.com/42813286/59561646-a8cee380-905d-11e9-9bbe-283de714273f.jpg" width="100%" height="100%">
+
+<img src="https://user-images.githubusercontent.com/42813286/59561947-fe58bf80-9060-11e9-96f4-2029513e6b4f.png" width="100%" height="100%">
+
   
   
 ### Background  
@@ -35,7 +41,8 @@ __<시행착오>__
 -------------------------------------
 # 앱 '오늘'
 
-<img src=https://user-images.githubusercontent.com/42813286/59560988-3eb24080-9055-11e9-9481-c931f27a93a6.png width="60%" height="60%">
+<img src="https://user-images.githubusercontent.com/42813286/59560988-3eb24080-9055-11e9-9481-c931f27a93a6.png" width="100%" height="100%">
+
 
 __<앱페이지 설명>__
 
