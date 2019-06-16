@@ -1,4 +1,4 @@
-<img src=https://user-images.githubusercontent.com/48988348/59562225-00248200-9065-11e9-8d67-cde106fe5d49.PNG width="60%" height="60%">
+<img src="https://user-images.githubusercontent.com/48988348/59562225-00248200-9065-11e9-8d67-cde106fe5d49.PNG" width="100%" height="100%">
 
 # 미세먼지 IoT 'Tob'
 하나님이 이르시되 빛이 있으라 하시니 빛이 있었고 빛이 하나님이 보시기에 좋았더라(창 1:4-5)  
@@ -6,11 +6,11 @@
 
   
 <img src="https://user-images.githubusercontent.com/42813286/59561567-09a9ec00-905d-11e9-8f66-dd32903b661b.jpg" width="60%" height="60%">
-<img src=https://user-images.githubusercontent.com/42813286/59561626-863cca80-905d-11e9-8023-bb90d83c58c0.jpg width="60%" height="60%">
-<img src=https://user-images.githubusercontent.com/42813286/59561600-51c90e80-905d-11e9-906a-3ead382923e5.jpg width="60%" height="60%">
-<img src=https://user-images.githubusercontent.com/42813286/59561634-9b195e00-905d-11e9-9367-7aff030f07c3.jpg width="60%" height="60%">
-<img src=https://user-images.githubusercontent.com/42813286/59561646-a8cee380-905d-11e9-9bbe-283de714273f.jpg width="60%" height="60%">
-<img src=https://user-images.githubusercontent.com/42813286/59561947-fe58bf80-9060-11e9-96f4-2029513e6b4f.png width="60%" height="60%">
+<img src="https://user-images.githubusercontent.com/42813286/59561626-863cca80-905d-11e9-8023-bb90d83c58c0.jpg">
+<img src="https://user-images.githubusercontent.com/42813286/59561600-51c90e80-905d-11e9-906a-3ead382923e5.jpg" width="60%" height="60%">
+<img src="https://user-images.githubusercontent.com/42813286/59561634-9b195e00-905d-11e9-9367-7aff030f07c3.jpg" width="60%" height="60%">
+<img src="https://user-images.githubusercontent.com/42813286/59561646-a8cee380-905d-11e9-9bbe-283de714273f.jpg" width="60%" height="60%">
+<img src="https://user-images.githubusercontent.com/42813286/59561947-fe58bf80-9060-11e9-96f4-2029513e6b4f.png" width="60%" height="60%">
   
   
 ### Background  
