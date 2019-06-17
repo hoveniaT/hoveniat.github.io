@@ -85,7 +85,7 @@ python 코드와 HUE를 연동하기 위해서는 2가지의 과정이 필요하
 </br?
 아래 영상은 연동 전 setting에 관한 유튜브 영상이다. 영상을 참고하면 충분히 파이썬 코드와 연동에 필요한 과정들을 수행 가능하다.  
 
-{% include youtube.html id="TL-K4Gm0fis" %}  
+{% include youtube.html id="https://www.youtube.com/embed/TL-K4Gm0fis" %}  
 
 인터넷과 HUE 연동하여 어플로 조작 가능하도록 하기 
 1. 근처 wifi 위치를 확인한다. 
