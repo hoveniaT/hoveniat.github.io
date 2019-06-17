@@ -29,7 +29,7 @@
 <img src="https://user-images.githubusercontent.com/42813286/59561947-fe58bf80-9060-11e9-96f4-2029513e6b4f.png" width="100%" height="100%">
 
 
-##### 제작 시행착오  
+#### 제작 시행착오  
 
 1. 층층이 끼워지는 부분이 레이저 커팅으로 조금 더 태워져 두께가 달라져 헐거워지는 문제가 있다. 레이저 커팅을 하면서 생기는 오차를 고려해야 한다.
 
@@ -75,25 +75,17 @@ just in case
 
 <img src="https://user-images.githubusercontent.com/37058246/59561648-ab313d80-905d-11e9-8718-1b6ee2c25bbd.jpg"  width="100%" height="100%">
 
-1. 라즈베리 파이를 통해 실시간 미세먼지 농도 측정한 값을 HUE 와 연동하는 법 설명서
-------------------------------------------------------------------
+#### 라즈베리 파이를 통해 실시간 미세먼지 농도 측정한 값을 HUE 와 연동하는 법 설명서  
 
-라즈베리 파이를 통해 실기간 미세먼지 농도를 측정하는 방법은 이곳에서 설명하지 않는다. 
+라즈베리 파이를 통해 실기간 미세먼지 농도를 측정하는 방법은 이곳에서 설명하지 않는다. 따라서 이 곳에서 중점적으로 설명할 것은 HUE와 인터넷과의 연동이다. 이 과정이 있어야 HUE가 연동이 되어, 데이터를 받아올 수 있으므로 필수로 참고해야 한다.  
+</br>
+python 코드와 HUE를 연동하기 위해서는 2가지의 과정이 필요하다.  
+1. 인터넷과 HUE 연동하여 어플로 조작 가능하도록 하기  
+2. Username 과 Hue 전구의 번호를 받아와 python과 연동하기  
+</br?
+아래 영상은 연동 전 setting에 관한 유튜브 영상이다. 영상을 참고하면 충분히 파이썬 코드와 연동에 필요한 과정들을 수행 가능하다.  
 
-따라서 이 곳에서 중점적으로 설명할 것은 HUE와 인터넷과의 연동이다.
-
-이 과정이 있어야 HUE가 연동이 되어, 데이터를 받아올 수 있으므로 필수로 참고해야 한다. 
-
-python 코드와 HUE를 연동하기 위해서는 2가지의 과정이 필요하다. 
-
-1. 인터넷과 HUE 연동하여 어플로 조작 가능하도록 하기 
-
-2. Username 과 Hue 전구의 번호를 받아와 python과 연동하기 
-
-아래 영상은 연동 전 setting에 관한 유튜브 영상이다. 
-영상을 참고하면 충분히 파이썬 코드와 연동에 필요한 과정들을 수행 가능하다. 
-
-<iframe width="948" height="533" src="https://www.youtube.com/watch?v=TL-K4Gm0fis" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{% include youtube.html id="TL-K4Gm0fis" %}  
 
 인터넷과 HUE 연동하여 어플로 조작 가능하도록 하기 
 1. 근처 wifi 위치를 확인한다. 
